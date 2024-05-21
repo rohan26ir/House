@@ -1,0 +1,58 @@
+body{
+  display: grid;
+  place-items: center;
+  height: 100vh;
+
+}
+
+.tng {
+  height: 0;
+  width: 0;
+
+  border-right: 150px solid transparent;
+
+  border-left: 150px solid transparent;
+
+  border-bottom: 150px solid #557;
+}
+
+.rec {
+
+  
+margin: 150px;
+margin-left: -125px;
+
+  height: 150px;
+  width:  250px;
+  
+  background-color: #557;
+
+}
+
+
+
+.dor{
+  height: 80px;
+  width: 60px;
+
+  padding-bottom: -70px;
+  
+  position: relative;
+  right: 10px;
+  bottom: 88px;
+  
+  background-color: #557;
+}
+
+.dr{
+  height: 80px;
+  width: 60px;
+
+  padding-bottom: -200px;
+  
+  position: relative;
+  right: -100px;
+  bottom: 10px;
+  
+  background-color: crimson;
+}
